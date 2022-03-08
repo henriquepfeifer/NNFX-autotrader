@@ -21,8 +21,13 @@ The only thing not implemented yet is the EVZ part.
 Feel free to contribute on github (/henriquepfeifer/NNFX-autotrader)
 
 If you want to run my version of the algorithm:
+
 Xaos Pattern Expplorer by Edward Samokhvalov https://www.mql5.com/en/code/8285 (rename file to 259T-XaosExplore_PerkyMod)
+
 NonLagMA_v4 by TrendLaboratory (rename to 167T-NonLagMA_v4)
+
 Volatility by Ivan Kornilov (rename to V203-volatility-indicator-2)
+
 TrendWave_2 (T53-TrendWave_2)
+
 All indicators are free and available to download.
